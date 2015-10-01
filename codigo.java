@@ -1,4 +1,4 @@
-public class SyGNumerosPrimos
+﻿public class SyGNumerosPrimos
 {
     public static void main(String arg[])
     {
@@ -63,4 +63,4 @@ public class SyGNumerosPrimos
  
 }
 
-// Miguel Bayon Alonso
+// Francisco jose fuentes Alvarez
